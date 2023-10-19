@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-![P](https://komarev.com/ghpvc/?username=abdullahkhawer&color=blue&style=flat)
+![P](https://komarev.com/ghpvc/?username=shafaypro&color=blue&style=flat)
 
 <!--
 **abdullahkhawer/abdullahkhawer** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
