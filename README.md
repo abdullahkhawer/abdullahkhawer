@@ -1,5 +1,10 @@
 # Abdullah Khawer
 
+<p align="center">
+    <a href="https://stackoverflow.com/users/11758843/abdullah-khawer" target="blank"><img align="center" src="https://upload.wikimedia.org/wikipedia/commons/e/ef/Stack_Overflow_icon.svg" alt="abdullahkhawer" height="30" width="30" /></a>
+    <a href="https://www.linkedin.com/in/abdullah-khawer/" target="blank"><img align="center" src="https://upload.wikimedia.org/wikipedia/commons/8/81/LinkedIn_icon.svg" alt="abdullahkhawer" height="30" width="30" /></a>
+</p>
+
 ![Profile Views](https://komarev.com/ghpvc/?username=abdullahkhawer&color=blue&style=flat)
 
 ### Hi there 👋🏻
@@ -12,9 +17,7 @@ Welcome to my profile. This is **Abdullah Khawer**, a seasoned Senior DevOps Eng
 - 📌 AWS: AWS Certified Developer Associate.
   - 🔗 https://www.credly.com/badges/011e8557-e0fe-4c7f-bc5d-f45ade3d7268
 - 📌 Stack Overflow: 4 Gold, 29 Silver, and 66 Bronze Badges with 4,500+ Reputation.
-  - 🔗 https://stackoverflow.com/users/11758843/abdullahkhawer
 - 📌 GitHub: 7 Repositories with 50 Stars & 22 Forks collectively with Arctic Code Vault Contributor badge.
-  - 🔗 https://github.com/abdullahkhawer?tab=repositories
 - 📌 Received Name in Principal's List on Acquiring 3.5+ GPA by the University of the Punjab.
 
 💻 Skills:
