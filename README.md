@@ -1,8 +1,8 @@
-### Hi there 👋🏻
-
 ![Profile Views](https://komarev.com/ghpvc/?username=abdullahkhawer&color=blue&style=flat)
 
-I am Abdullah Khawer, a seasoned Senior DevOps Engineer with over 6 years of dedicated experience in the realm of DevOps within the AWS cloud environment. Currently, I am based in Rotterdam, Netherlands, and I proudly serve as a Senior Software Engineer in DevOps at Mendix, a Siemens business.
+### Hi there 👋🏻
+
+Welcome to my profile. This is **Abdullah Khawer**, a seasoned Senior DevOps Engineer with over 6 years of dedicated experience in the realm of DevOps within the AWS cloud environment. Currently, I am based in Rotterdam, Netherlands, and I proudly serve as a Senior Software Engineer in DevOps at Mendix, a Siemens business.
 
 
 🚀 My professional journey has traversed across Europe (1 year), the Middle East (2 years), and Asia (3 years). Over this period, I have actively contributed to an array of projects spanning diverse domains such as Fintech, Blockchain, Data Lake, Big Data, Digital Identity, E-commerce, Logistics, Supply Chain, and Enterprise Low-Code. My expertise lies in crafting scalable, fault-tolerant, cost-effective, and secure solutions by harnessing a multitude of AWS services and the latest DevOps tools and technologies.
