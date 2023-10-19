@@ -6,9 +6,7 @@
 
 Welcome to my profile. This is **Abdullah Khawer**, a seasoned Senior DevOps Engineer with over 6 years of dedicated experience in the realm of DevOps within the AWS cloud environment. Currently, I am based in Rotterdam, Netherlands, and I proudly serve as a Senior Software Engineer in DevOps at Mendix, a Siemens business.
 
-
-🚀 My professional journey has traversed across Europe (1 year), the Middle East (2 years), and Asia (3 years). Over this period, I have actively contributed to an array of projects spanning diverse domains such as Fintech, Blockchain, Data Lake, Big Data, Digital Identity, E-commerce, Logistics, Supply Chain, and Enterprise Low-Code. My expertise lies in crafting scalable, fault-tolerant, cost-effective, and secure solutions by harnessing a multitude of AWS services and the latest DevOps tools and technologies.
-
+🚀 My professional journey has traversed across Europe, the Middle East, and Asia. Over this period, I have actively contributed to an array of projects spanning diverse domains such as Fintech, Blockchain, Data Lake, Big Data, Digital Identity, E-commerce, Logistics, Supply Chain, and Enterprise Low-Code. My expertise lies in crafting scalable, fault-tolerant, cost-effective, and secure solutions by harnessing a multitude of AWS services and the latest DevOps tools and technologies.
 
 🏆 Key Achievements:
 - 📌 AWS: AWS Certified Developer Associate.
@@ -18,7 +16,6 @@ Welcome to my profile. This is **Abdullah Khawer**, a seasoned Senior DevOps Eng
 - 📌 GitHub: 7 Repositories with 50 Stars & 22 Forks collectively with Arctic Code Vault Contributor badge.
   - 🔗 https://github.com/abdullahkhawer?tab=repositories
 - 📌 Received Name in Principal's List on Acquiring 3.5+ GPA by the University of the Punjab.
-
 
 💻 Skills:
 - 📌 DevOps Tools: Docker, Kubernetes, Helm, Terraform, Elasticsearch, Filebeat, Kibana, Jenkins, Nginx, Ansible, Prometheus, Grafana, Papertrail, Rollbar, Travis, Fluentd, Dynatrace, Loggly, Snyk, Nexus, Lacework
