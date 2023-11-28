@@ -17,7 +17,7 @@ Welcome to my profile. This is **Abdullah Khawer**, a seasoned Senior DevOps Eng
 - 📌 AWS: AWS Certified Cloud Practitioner and AWS Certified Developer Associate.
 - 📌 Stack Overflow: 4 Gold, 29 Silver, and 66 Bronze Badges with 4,500+ Reputation.
 - 📌 GitHub: 7 Repositories with 50 Stars & 22 Forks collectively with Arctic Code Vault Contributor badge.
-- 📌 Received Name in Principal's List on Acquiring 3.5+ GPA by the University of the Punjab.
+- 📌 Received Name in Principal's List 3 Times on Acquiring 3.5+ GPA in Semesters during my Bachelors in Software Engineering at the University of the Punjab.
 
 💻 Skills:
 - 📌 DevOps Tools: Docker, Kubernetes, Helm, Terraform, Elasticsearch, Filebeat, Kibana, Jenkins, Nginx, Ansible, Prometheus, Grafana, Papertrail, Rollbar, Travis, Fluentd, Dynatrace, Loggly, Snyk, Nexus, Lacework
