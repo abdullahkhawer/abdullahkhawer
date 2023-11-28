@@ -14,8 +14,7 @@ Welcome to my profile. This is **Abdullah Khawer**, a seasoned Senior DevOps Eng
 🚀 My professional journey has traversed across Europe, the Middle East, and Asia. Over this period, I have actively contributed to an array of projects spanning diverse domains such as Fintech, Blockchain, Data Lake, Big Data, Digital Identity, E-commerce, Logistics, Supply Chain, and Enterprise Low-Code. My expertise lies in crafting scalable, fault-tolerant, cost-effective, and secure solutions by harnessing a multitude of AWS services and the latest DevOps tools and technologies.
 
 🏆 Key Achievements:
-- 📌 AWS: AWS Certified Developer Associate.
-  - 🔗 https://www.credly.com/badges/011e8557-e0fe-4c7f-bc5d-f45ade3d7268
+- 📌 AWS: AWS Certified Cloud Practitioner and AWS Certified Developer Associate.
 - 📌 Stack Overflow: 4 Gold, 29 Silver, and 66 Bronze Badges with 4,500+ Reputation.
 - 📌 GitHub: 7 Repositories with 50 Stars & 22 Forks collectively with Arctic Code Vault Contributor badge.
 - 📌 Received Name in Principal's List on Acquiring 3.5+ GPA by the University of the Punjab.
