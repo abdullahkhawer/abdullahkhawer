@@ -9,26 +9,27 @@
 
 ### Hi there 👋🏻
 
-Welcome to my profile. This is **Abdullah Khawer**, a seasoned Senior DevOps Engineer with over 6 years of dedicated experience in the realm of DevOps within the AWS cloud environment. Currently, I am based in Rotterdam, Netherlands, and I proudly serve as a Senior Software Engineer in DevOps at Mendix, a Siemens business.
-
-🚀 My professional journey has traversed across Europe, the Middle East, and Asia. Over this period, I have actively contributed to an array of projects spanning diverse domains such as Fintech, Blockchain, Data Lake, Big Data, Digital Identity, E-commerce, Logistics, Supply Chain, and Enterprise Low-Code. My expertise lies in crafting scalable, fault-tolerant, cost-effective, and secure solutions by harnessing a multitude of AWS services and the latest DevOps tools and technologies.
+Welcome to my profile. This is **Abdullah Khawer**. I am a Senior DevOps Engineer with over 6 years of experience in the field of DevOps within the AWS cloud environment. During those 6 years, I have worked in Europe, Middle East, and Asia on projects across domains like Fintech, Blockchain, Data Lake, Big Data, Digital Identity, E-commerce, Logistics, Supply Chain, and Enterprise Low-Code. My expertise lies in crafting highly available, auto scalable, self-healing, cost-effective, and secure solutions using various AWS services and the latest tools and technologies in DevOps.
 
 🏆 Key Achievements:
 - 📌 AWS: AWS Certified Cloud Practitioner and AWS Certified Developer Associate.
-- 📌 Stack Overflow: 4 Gold, 29 Silver, and 66 Bronze Badges with 4,500+ Reputation.
-- 📌 GitHub: 7 Repositories with 50 Stars & 22 Forks collectively with Arctic Code Vault Contributor badge.
+- 📌 Stack Overflow: 4 Gold, 29 Silver, and 69 Bronze Badges with 4,800+ Reputation.
+- 📌 GitHub: 8 Repositories with 54 Stars & 20 Forks collectively with Arctic Code Vault Contributor badge.
 - 📌 Received Name in Principal's List 3 Times on Acquiring 3.5+ GPA in Semesters during my Bachelors in Software Engineering at the University of the Punjab.
 
 💻 Skills:
-- 📌 DevOps Tools: Docker, Kubernetes, Helm, Terraform, Elasticsearch, Filebeat, Kibana, Jenkins, Nginx, Ansible, Prometheus, Grafana, Papertrail, Rollbar, Travis, Fluentd, Dynatrace, Loggly, Snyk, Nexus, Lacework
-- 📌 Amazon Web Services: EC2, Lambda, EBS, SES, Athena, CodeDeploy, S3, Elasticsearch, IoT 1-Click, CloudTrail, VPC, SNS, DMS, SQS, API Gateway, ECR, ECS, EKS, Glue, CodeBuild, Systems Manager, CodePipeline, Route 53, CloudFront, CodeCommit, RDS, IAM, Redshift, DynamoDB, CloudFormation, ElastiCache, EMR, Cognito, Auto Scaling, CloudWatch, Data Pipeline, EFS, Organizations, SSO, Secrets Manager, Kinesis, Managed Service for Kafka, KMS, DocumentDB, ACM, Config
-- 📌 Source Versioning Tools: GitHub, GitLab, BitBucket
-- 📌 Languages: Python, Bash/Shell, JS, YAML, JSON
-- 📌 Databases: MongoDB, etcd, Redis, MySQL, PostgreSQL, Oracle, MariaDB
-- 📌 Frameworks: Boto3, Sqoop, Hadoop, NodeJS
+- 📌 Programming and Scripting Languages: Python with Boto3 for AWS, Bash/Shell, JavaScript, YAML, NodeJS
+- 📌 CI/CD: Jenkins, GitLab CI with GitLab Runners, GitHub Actions, BitBucket Pipelines, AWS (CodeDeploy, CodeBuild, CodePipeline)
+- 📌 Containerization: Docker, Kubernetes with Helm
+- 📌 Infrastructure as Code (IaC): Terraform, Python, AWS CloudFormation, Ansible
+- 📌 Logging: Elasticsearch and Curator, Filebeat, Functionbeat, Logstash, Fluentd, Kibana, Papertrail, Loggly, Rollbar, Dynatrace
+- 📌 Monitoring: Prometheus, Grafana, Alert Manager, Blackbox
+- 📌 More DevOps Technologies: Ingress Nginx, Snyk, Nexus, Lacework, Cert Manager, Cluster Autoscaler, OIDC, AzureAD
+- 📌 Databases: MongoDB, etcd, Redis, MySQL, PostgreSQL, Oracle, MariaDB, AWS (RDS, Aurora, DocumentDB, DynamoDB, ElastiCache)
+- 📌 Big Data Tools: Sqoop, Hadoop, AWS (EMR, Redshift, Data Pipeline, DMS, Kinesis, Kafka, Athena, Glue)
+- 📌 More Amazon Web Services: EC2, Lambda, EBS, SES, S3, CloudTrail, VPC, SNS, SQS, API Gateway, ECR, ECS, EKS, Route 53, CloudFront, IAM, Cognito, Auto Scaling, CloudWatch, EFS, Organizations, SSO, Secrets Manager, KMS, ACM, SSM Parameter Store and Session Manager, CodeCommit
 - 📌 Operating Systems: Linux, macOS, Windows
-- 📌 Other Tools: JIRA, Confluence, Slack, Zoom, MS Teams, Office365, Skype, Google Workspace
-
+- 📌 Other Tools: JIRA, Confluence, Slack, Zoom, MS Teams, Office365, Google Workspace
 <!--
 **abdullahkhawer/abdullahkhawer** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
