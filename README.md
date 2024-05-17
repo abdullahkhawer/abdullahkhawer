@@ -9,28 +9,27 @@
 
 ### Hi there 👋🏻
 
-Welcome to my profile. This is **Abdullah Khawer**. I am a Senior DevOps Engineer with over 6 years of experience in the field of DevOps within the AWS cloud environment. During those 6 years, I have worked in Europe, Middle East, and Asia on projects across domains like Fintech, Blockchain, Data Lake, Big Data, Digital Identity, E-commerce, Logistics, Supply Chain, and Enterprise Low-Code. My expertise lies in crafting highly available, auto scalable, self healing, cost effective, and secure solutions using various AWS services and the latest tools and technologies in DevOps.
+Welcome to my profile. This is **Abdullah Khawer**. I'm a Senior DevOps Engineer with over 7 years of experience who has worked across Europe, the Middle East, and Asia in providing services around DevOps, Platform Engineering, and Site Reliability Engineering (SRE) based on AWS cloud. I have worked on projects in multiple domains including Fintech, Blockchain, Big Data, Digital Identity, Logistics and Supply Chain, and Low-Code. I have expertise in developing highly available, secure, auto-scalable, self-healing, and cost-effective solutions using a wide range of AWS services and DevOps tools and technologies.
 
 🏆 Key Achievements:
 - 📌 AWS: AWS Certified Cloud Practitioner and AWS Certified Developer Associate.
-- 📌 Stack Overflow: 4 Gold, 29 Silver, and 69 Bronze Badges with 4,800+ Reputation.
-- 📌 GitHub: 8 Repositories with 54 Stars & 20 Forks collectively with Arctic Code Vault Contributor badge.
-- 📌 Received Name in Principal's List 3 Times on Acquiring 3.5+ GPA in Semesters during my Bachelors in Software Engineering at the University of the Punjab.
+- 📌 Stack Overflow: 4 Gold, 37 Silver, and 78 Bronze Badges with 5000+ Reputation.
+- 📌 GitHub: 8 Repositories with 62 Stars & 28 Forks collectively with Arctic Code Vault Contributor badge.
+- 📌 Received name in Principal's List 3 times on acquiring 3.5+ GPA during my Bachelors in Software Engineering at the University of the Punjab.
 
 💻 Skills:
-- 📌 Programming and Scripting Languages: Python with Boto3 for AWS, Bash/Shell, JavaScript, YAML, NodeJS
+- 📌 Programming Languages: Python with Boto3 for AWS, Bash/Shell, JavaScript, YAML, NodeJS
 - 📌 CI/CD: Jenkins, GitLab CI with GitLab Runners, GitHub Actions, BitBucket Pipelines, AWS (CodeDeploy, CodeBuild, CodePipeline)
 - 📌 Containerization: Docker, Kubernetes with Helm
-- 📌 Infrastructure as Code (IaC): Terraform, Python, AWS CloudFormation, Ansible
-- 📌 Logging: Elasticsearch with Curator, Filebeat, Functionbeat, Logstash, Fluentd, Kibana, Papertrail, Loggly, Rollbar, Dynatrace
+- 📌 Infrastructure as Code (IaC): Terraform, AWS CloudFormation, Ansible
+- 📌 Logging: Elasticsearch with Curator, Filebeat, Functionbeat, Logstash, Fluentd, Kibana, Papertrail, Loggly, Rollbar, Dynatrace, AWS CloudWatch
 - 📌 Monitoring and Alerting: Prometheus, Grafana, Alert Manager, Blackbox, AWS (CloudTrail, CloudWatch, SNS, EventBridge)
-- 📌 More DevOps Technologies: Nginx Ingress, Snyk, Nexus, Lacework, Cert Manager, Cluster Autoscaler, AzureAD
-- 📌 More DevOps Skills: Reverse Proxy, Caching, Load Balancing, REST API, Networking, Auto Scaling, Backups, DNS, CDN, OIDC, Serverless, GitOps, Disaster Recovery
-- 📌 Databases: MongoDB, etcd, Redis, MySQL, PostgreSQL, Oracle, MariaDB, AWS (RDS, Aurora, DocumentDB, DynamoDB, ElastiCache)
-- 📌 Big Data Tools: Sqoop, Hadoop, AWS (EMR, Redshift, Data Pipeline, DMS, Kinesis, Kafka, Athena, Glue)
-- 📌 More Amazon Web Services: EC2, Lambda, EBS, SES, S3, VPC, SQS, API Gateway, ECR, ECS, EKS, Route 53, CloudFront, IAM, Cognito, Auto Scaling, EFS, Organizations, SSO, Secrets Manager, KMS, ACM, SSM Parameter Store and Session Manager, CodeCommit
+- 📌 Databases: MongoDB, etcd, Redis, MySQL, PostgreSQL, Oracle, MariaDB, InfluxDB, AWS (RDS, Aurora, DocumentDB, DynamoDB, ElastiCache)
+- 📌 More DevOps Tools: Nginx Ingress Controller, Snyk, Nexus, Lacework, Cert Manager, Cluster Autoscaler, Renovate
+- 📌 More Skills: Agile, Reverse Proxy, Caching, Load Balancing, REST API, Networking, Security, Auto Scaling, Backups, DNS, CDN, OIDC, Serverless, GitOps, Disaster Recovery
+- 📌 More Amazon Web Services: EC2, Lambda, EBS, SES, S3, VPC, SQS, API Gateway, ECR, ECS, EKS, Route 53, CloudFront, IAM, Cognito, Auto Scaling, EFS, SSO, Secrets Manager, KMS, ACM, SSM Parameter Store, SSM Session Manager, CodeCommit, EMR, Redshift, Data Pipeline, DMS, Kinesis, Athena
 - 📌 OS: Linux, macOS, Windows
-- 📌 More Tools: JIRA, Confluence, Slack, Zoom, MS Teams, Office365, Google Workspace
+- 📌 More Tools: Sqoop, Hadoop, JIRA, Confluence, Slack, Zoom, Microsoft 365, Google Workspace, AzureAD
 
 <!--
 **abdullahkhawer/abdullahkhawer** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
