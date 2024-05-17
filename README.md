@@ -26,7 +26,7 @@ Welcome to my profile. This is **Abdullah Khawer**. I'm a Senior DevOps Engineer
 - 📌 Monitoring and Alerting: Prometheus, Grafana, Alert Manager, Blackbox, AWS (CloudTrail, CloudWatch, SNS, EventBridge)
 - 📌 Databases: MongoDB, etcd, Redis, MySQL, PostgreSQL, Oracle, MariaDB, InfluxDB, AWS (RDS, Aurora, DocumentDB, DynamoDB, ElastiCache)
 - 📌 More DevOps Tools: Nginx Ingress Controller, Snyk, Nexus, Lacework, Cert Manager, Cluster Autoscaler, Renovate
-- 📌 More Skills: Agile, Reverse Proxy, Caching, Load Balancing, REST API, Networking, Security, Auto Scaling, Backups, DNS, CDN, OIDC, Serverless, GitOps, Disaster Recovery
+- 📌 More Skills: Agile, Scrum, Reverse Proxy, Caching, Load Balancing, REST API, Networking, Security, Auto Scaling, Backups, DNS, CDN, OIDC, Serverless, GitOps, Disaster Recovery
 - 📌 More Amazon Web Services: EC2, Lambda, EBS, SES, S3, VPC, SQS, API Gateway, ECR, ECS, EKS, Route 53, CloudFront, IAM, Cognito, Auto Scaling, EFS, SSO, Secrets Manager, KMS, ACM, SSM Parameter Store, SSM Session Manager, CodeCommit, EMR, Redshift, Data Pipeline, DMS, Kinesis, Athena
 - 📌 OS: Linux, macOS, Windows
 - 📌 More Tools: Sqoop, Hadoop, JIRA, Confluence, Slack, Zoom, Microsoft 365, Google Workspace, AzureAD
