@@ -12,8 +12,10 @@
 
 Welcome to my profile. This is **Abdullah Khawer**. I'm a Senior DevOps Engineer with over 7 years of experience who has worked across Europe, the Middle East, and Asia in providing services around DevOps, Platform Engineering, and Site Reliability Engineering (SRE) based on AWS cloud. I have worked on projects in multiple domains including Fintech, Blockchain, Big Data, Digital Identity, Logistics and Supply Chain, and Low-Code. I have expertise in developing highly available, secure, auto-scalable, self-healing, and cost-effective solutions using a wide range of AWS services and DevOps tools and technologies.
 
+
+
 🏆 Key Achievements:
-- 📌 AWS: AWS Certified Cloud Practitioner and AWS Certified Developer Associate.
+📌 AWS: AWS Certified Cloud Practitioner and AWS Certified Developer Associate.
 - 📌 Stack Overflow: 4 Gold, 37 Silver, and 78 Bronze Badges with 5000+ Reputation.
 - 📌 GitHub: 8 Repositories with 62 Stars & 28 Forks collectively with Arctic Code Vault Contributor badge and Starstruck badge.
 - 📌 Received name in Principal's List 3 times on acquiring 3.5+ GPA during my Bachelors in Software Engineering at the University of the Punjab.
