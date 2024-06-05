@@ -24,9 +24,9 @@ GitHub Repositories:
 - 📌 [ak-encoder-decoder](https://github.com/abdullahkhawer/ak-encoder-decoder): A Python based encoding and decoding tool for texts and secrets with executables provided for Windows and Linux.
 
 🏆 Key Achievements:
-- 📌 AWS: AWS Certified Cloud Practitioner and AWS Certified Developer Associate.
+- 📌 AWS: AWS Certified Developer Associate and AWS Certified Cloud Practitioner.
 - 📌 Stack Overflow: 4 Gold, 37 Silver, and 78 Bronze Badges with 5000+ Reputation.
-- 📌 GitHub: 9 Repositories with 62 Stars & 28 Forks collectively with Arctic Code Vault Contributor badge and Starstruck badge.
+- 📌 GitHub: 9 Repositories with 66 Stars & 30 Forks collectively with Arctic Code Vault Contributor badge and Starstruck badge.
 - 📌 Received name in Principal's List 3 times on acquiring 3.5+ GPA during my Bachelors in Software Engineering at the University of the Punjab.
 
 💻 Skills:
