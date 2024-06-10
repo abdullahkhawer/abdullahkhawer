@@ -19,8 +19,8 @@ GitHub Repositories:
 - 📌 [mongodb-cluster-on-aws-ecs](https://github.com/abdullahkhawer/mongodb-cluster-on-aws-ecs): A Terraform module to quickly deploy a secure, persistent, highly available, self healing, efficient, cost effective and self managed single-node or multi-node MongoDB NoSQL document database cluster on AWS ECS cluster with monitoring and alerting enabled.
 - 📌 [terraform-aws-ssm-parameter-store-backup](https://github.com/abdullahkhawer/terraform-aws-ssm-parameter-store-backup): A Terraform module to create AWS resources which are used to automatically take backup of all the parameters residing on AWS SSM Parameter Store in JSON format and store it on AWS S3 bucket using AWS Lambda function based on Python.
 - 📌 [simple-etcd-backup-restore](https://github.com/abdullahkhawer/simple-etcd-backup-restore): A simple etcd backup and restore solution based on bash/shell scripts to backup/restore data from/to etcd in JSON format with the ability to compress/decompress the backup file and upload/download it on/from AWS S3.
-- 📌 [vizion-api-python-integration-for-aws](https://github.com/abdullahkhawer/vizion-api-python-integration-for-aws): Vizion API Integration in Python using Flask for AWS using AWS Lambda and AWS API Gateway which can be deployed using Serverless Framework.
 - 📌 [devops-helper-scripts](https://github.com/abdullahkhawer/devops-helper-scripts): This repository has various helper scripts related to DevOps and AWS.
+- 📌 [vizion-api-python-integration-for-aws](https://github.com/abdullahkhawer/vizion-api-python-integration-for-aws): Vizion API Integration in Python using Flask for AWS using AWS Lambda and AWS API Gateway which can be deployed using Serverless Framework.
 - 📌 [ak-encoder-decoder](https://github.com/abdullahkhawer/ak-encoder-decoder): A Python based encoding and decoding tool for texts and secrets with executables provided for Windows and Linux.
 
 🏆 Key Achievements:
