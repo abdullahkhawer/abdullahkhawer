@@ -25,8 +25,8 @@ GitHub Repositories:
 
 🏆 Key Achievements:
 - 📌 AWS: AWS Certified Developer Associate and AWS Certified Cloud Practitioner.
-- 📌 Stack Overflow: 4 Gold, 37 Silver, and 78 Bronze Badges with 5000+ Reputation.
-- 📌 GitHub: 9 Repositories with 66 Stars & 30 Forks collectively with Arctic Code Vault Contributor badge and Starstruck badge.
+- 📌 Stack Overflow: 4 Gold, 37 Silver, and 81 Bronze Badges with 5200+ Reputation.
+- 📌 GitHub: 9 Repositories with 70 Stars & 32 Forks collectively with Arctic Code Vault Contributor badge for 3 repositories and Starstruck badge for 1 repository.
 - 📌 Received name in Principal's List 3 times on acquiring 3.5+ GPA during my Bachelors in Software Engineering at the University of the Punjab.
 
 💻 Skills:
