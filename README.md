@@ -12,6 +12,10 @@
 
 This is **Abdullah Khawer**. I'm a Senior DevOps Engineer with 8+ years of experience who has worked across Europe, the Middle East, and Asia in providing services around DevOps, Platform Engineering, and Site Reliability Engineering (SRE) based on AWS cloud. I have worked on projects in multiple domains including Fintech, Blockchain, Big Data, Digital Identity, Logistics and Supply Chain, and Low-Code. I have expertise in developing highly available, secure, auto-scalable, self-healing, and cost-effective solutions using a wide range of AWS services and DevOps tools and technologies.
 
+📄 GitHub Gists:
+- 📌 [Best Practices for Setting Kubernetes Resources (Right Sizing Pods and Nodes)
+](https://gist.github.com/abdullahkhawer/d2dad740efb2d003f2b3ad2441b9037e)
+
 📁 GitHub Repositories:
 - 📌 [AI Local Chat Bot](https://github.com/abdullahkhawer/ai-local-chat-bot): AI Local Chat Bot is an AI-powered chat assistant like ChatGPT running locally, safely and privately using n8n for workflow orchestration, Qdrant for vector storage, and Ollama for running local LLMs. It also includes helper scripts for downloading and processing Confluence pages as PDFs.
 - 📌 [AI GitHub Copilot VS Code Chat Modes](https://github.com/abdullahkhawer/ai-github-copilot-vs-code-chat-modes): A curated collection of custom chat modes based on chatmode.md files for Visual Studio Code (VS Code) used by GitHub Copilot to enhance your development using AI to work smarter.
