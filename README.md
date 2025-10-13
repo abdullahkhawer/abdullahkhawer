@@ -12,15 +12,12 @@
 
 This is **Abdullah Khawer**. I'm a Senior DevOps Engineer with 8+ years of experience who has worked across Europe, the Middle East, and Asia in providing services around DevOps, Platform Engineering, and Site Reliability Engineering (SRE) based on AWS cloud. I have worked on projects in multiple domains including Fintech, Blockchain, Big Data, Digital Identity, Logistics and Supply Chain, and Low-Code. I have expertise in developing highly available, secure, auto-scalable, self-healing, and cost-effective solutions using a wide range of AWS services and DevOps tools and technologies.
 
-⭐ Total Stars and Forks on GitHub: 85 Stars & 48 Forks
+⭐ Total Stars and Forks on GitHub: 85 Stars & 49 Forks
 
-📋 GitHub Gists: `1`
-- 📌 [Best Practices for Setting Kubernetes Resources (Right Sizing Pods and Nodes)
-](https://gist.github.com/abdullahkhawer/d2dad740efb2d003f2b3ad2441b9037e)
-
-📁 GitHub Repositories: `13`
-- 📌 [AI Local Chat Bot](https://github.com/abdullahkhawer/ai-local-chat-bot): AI Local Chat Bot is an AI-powered chat assistant like ChatGPT running locally, safely and privately using n8n for workflow orchestration, Qdrant for vector storage, and Ollama for running local LLMs. It also includes helper scripts for downloading and processing Confluence pages as PDFs.
+📁 GitHub Repositories: `14`
+- 📌 [Best Practices for Setting Kubernetes Resources (Right Sizing Pods and Nodes)](https://github.com/abdullahkhawer/kubernetes-best-practices-for-pods-resizing)
 - 📌 [AI GitHub Copilot VS Code Chat Modes](https://github.com/abdullahkhawer/ai-github-copilot-vs-code-chat-modes): A curated collection of custom chat modes based on chatmode.md files for Visual Studio Code (VS Code) used by GitHub Copilot to enhance your development using AI to work smarter.
+- 📌 [AI Local Chat Bot](https://github.com/abdullahkhawer/ai-local-chat-bot): AI Local Chat Bot is an AI-powered chat assistant like ChatGPT running locally, safely and privately using n8n for workflow orchestration, Qdrant for vector storage, and Ollama for running local LLMs. It also includes helper scripts for downloading and processing Confluence pages as PDFs.
 - 📌 [AWS Alerts](https://github.com/abdullahkhawer/aws-alerts): AWS Alerts is a solution for AWS cloud to monitor resources for various AWS services and alert for failures, errors, warnings and terminations on Slack.
 - 📌 [Find and Report Secrets in Code](https://github.com/abdullahkhawer/find-and-report-secrets-in-code): A security solution that finds secrets in a git repository using Gitleaks, generates a JSON report based on the findings from Gitleaks by extracting only the relevant information, finds the commit id and commit author for each finding, updates an Atlassian Confluence page with the secrets found based on that generated report and finally sends an alert on Slack.
 - 📌 [MongoDB Cluster on AWS ECS](https://github.com/abdullahkhawer/mongodb-cluster-on-aws-ecs): A Terraform module to quickly deploy a secure, persistent, highly available, self healing, efficient, cost effective and self managed single-node or multi-node MongoDB NoSQL document database cluster on AWS ECS cluster with monitoring and alerting enabled.
@@ -36,7 +33,7 @@ This is **Abdullah Khawer**. I'm a Senior DevOps Engineer with 8+ years of exper
 🏆 Key Achievements:
 - 📌 AWS: AWS Certified Developer Associate and AWS Certified Cloud Practitioner.
 - 📌 Stack Overflow: 4 Gold, 37 Silver, and 81 Bronze Badges with 5200+ Reputation.
-- 📌 GitHub: 13 Repositories and 1 Gist with 85 Stars & 48 Forks collectively with Arctic Code Vault Contributor badge for 3 repositories and Starstruck badge for 1 repository.
+- 📌 GitHub: 14 Repositories with 85 Stars & 49 Forks collectively with Arctic Code Vault Contributor badge for 3 repositories and Starstruck badge for 1 repository.
 - 📌 Received name in Principal's List 3 times on acquiring 3.5+ GPA during my Bachelors in Software Engineering at the University of the Punjab.
 
 💻 Skills:
