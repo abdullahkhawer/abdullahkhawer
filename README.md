@@ -12,6 +12,8 @@
 
 This is **Abdullah Khawer**. I'm a Senior DevOps Engineer with 8+ years of experience who has worked across Europe, the Middle East, and Asia in providing services around DevOps, Platform Engineering, and Site Reliability Engineering (SRE) based on AWS cloud. I have worked on projects in multiple domains including Fintech, Blockchain, Big Data, Digital Identity, Logistics and Supply Chain, and Low-Code. I have expertise in developing highly available, secure, auto-scalable, self-healing, and cost-effective solutions using a wide range of AWS services and DevOps tools and technologies.
 
+⭐ Total Stars and Forks on GitHub: 71 Stars & 32 Forks
+
 📋 GitHub Gists:
 - 📌 [Best Practices for Setting Kubernetes Resources (Right Sizing Pods and Nodes)
 ](https://gist.github.com/abdullahkhawer/d2dad740efb2d003f2b3ad2441b9037e)
