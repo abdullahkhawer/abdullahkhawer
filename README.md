@@ -15,7 +15,7 @@ This is **Abdullah Khawer**. I'm a Senior DevOps Engineer with 8+ years of exper
 ⭐ Total Stars and Forks on GitHub: 85 Stars & 49 Forks
 
 📁 GitHub Repositories: `14`
-- 📌 [Best Practices for Setting Kubernetes Resources (Right Sizing Pods and Nodes)](https://github.com/abdullahkhawer/kubernetes-best-practices-for-pods-resizing)
+- 📌 [Kubernetes Best Practices for Pods Resizing](https://github.com/abdullahkhawer/kubernetes-best-practices-for-pods-resizing): A list of best practices for setting Kubernetes resources to right size pods and nodes.
 - 📌 [AI GitHub Copilot VS Code Chat Modes](https://github.com/abdullahkhawer/ai-github-copilot-vs-code-chat-modes): A curated collection of custom chat modes based on chatmode.md files for Visual Studio Code (VS Code) used by GitHub Copilot to enhance your development using AI to work smarter.
 - 📌 [AI Local Chat Bot](https://github.com/abdullahkhawer/ai-local-chat-bot): AI Local Chat Bot is an AI-powered chat assistant like ChatGPT running locally, safely and privately using n8n for workflow orchestration, Qdrant for vector storage, and Ollama for running local LLMs. It also includes helper scripts for downloading and processing Confluence pages as PDFs.
 - 📌 [AWS Alerts](https://github.com/abdullahkhawer/aws-alerts): AWS Alerts is a solution for AWS cloud to monitor resources for various AWS services and alert for failures, errors, warnings and terminations on Slack.
