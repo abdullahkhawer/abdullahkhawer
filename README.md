@@ -12,7 +12,7 @@
 
 This is **Abdullah Khawer**. I'm a Senior DevOps Engineer with 8+ years of experience who has worked across Europe, the Middle East, and Asia in providing services around DevOps, Platform Engineering, and Site Reliability Engineering (SRE) based on AWS cloud. I have worked on projects in multiple domains including Fintech, Blockchain, Big Data, Digital Identity, Logistics and Supply Chain, and Low-Code. I have expertise in developing highly available, secure, auto-scalable, self-healing, and cost-effective solutions using a wide range of AWS services and DevOps tools and technologies.
 
-⭐ Total Stars and Forks on GitHub: 85 Stars & 32 Forks
+⭐ Total Stars and Forks on GitHub: 85 Stars & 48 Forks
 
 📋 GitHub Gists: `1`
 - 📌 [Best Practices for Setting Kubernetes Resources (Right Sizing Pods and Nodes)
@@ -36,7 +36,7 @@ This is **Abdullah Khawer**. I'm a Senior DevOps Engineer with 8+ years of exper
 🏆 Key Achievements:
 - 📌 AWS: AWS Certified Developer Associate and AWS Certified Cloud Practitioner.
 - 📌 Stack Overflow: 4 Gold, 37 Silver, and 81 Bronze Badges with 5200+ Reputation.
-- 📌 GitHub: 13 Repositories and 1 Gist with 85 Stars & 32 Forks collectively with Arctic Code Vault Contributor badge for 3 repositories and Starstruck badge for 1 repository.
+- 📌 GitHub: 13 Repositories and 1 Gist with 85 Stars & 48 Forks collectively with Arctic Code Vault Contributor badge for 3 repositories and Starstruck badge for 1 repository.
 - 📌 Received name in Principal's List 3 times on acquiring 3.5+ GPA during my Bachelors in Software Engineering at the University of the Punjab.
 
 💻 Skills:
