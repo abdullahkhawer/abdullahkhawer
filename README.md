@@ -32,8 +32,8 @@ This is **Abdullah Khawer**, a Senior DevOps Engineer with 8+ years of experienc
 
 🏆 Key Achievements:
 - 📌 AWS: AWS Certified Developer Associate and AWS Certified Cloud Practitioner
-- 📌 GitHub: 14 Repositories with 85 Stars & 49 Forks collectively with Arctic Code Vault Contributor badge for 3 repositories and Starstruck badge for 1 repository. - github.com/abdullahkhawer
-- 📌 Stack Overflow: 5 Gold, 50 Silver, and 96 Bronze Badges with 5900+ Reputation - stackoverflow.com/users/11758843/abdullahkhawer
+- 📌 GitHub: 14 Repositories with 87 Stars & 50 Forks collectively
+- 📌 Stack Overflow: 5 Gold, 50 Silver, and 96 Bronze Badges with 5900+ Reputation
 - 📌 The Principal's List: 3 times got my name in it on acquiring 3.5+ GPA in Bachelors in Software Engineering
 
 💻 Skills:
