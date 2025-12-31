@@ -6,7 +6,7 @@ LinkedIn - <a href="https://www.linkedin.com/in/abdullah-khawer/" target="blank"
 
 This is **Abdullah Khawer**, a Senior DevOps Engineer with 8+ years of experience who has worked in Europe, Middle East and Asia in providing services around DevOps, Platform Engineering, and Site Reliability Engineering (SRE) based on AWS cloud. I have worked on projects in multiple domains including Fintech, Blockchain, Big Data, Digital Identity, Logistics and Supply Chain, and Enterprise Low-Code. I have expertise in developing highly available, secure, self-healing, and cost-effective cloud solutions using a wide range of AWS services and DevOps tools.
 
-⭐ Total Stars and Forks on GitHub: 85 Stars & 49 Forks
+⭐ Total Stars and Forks on GitHub: 87 Stars & 50 Forks
 
 📁 GitHub Repositories: `14`
 - 📌 [Kubernetes Best Practices for Pods Resizing](https://github.com/abdullahkhawer/kubernetes-best-practices-for-pods-resizing): A list of best practices for setting Kubernetes resources to right size pods and nodes.
