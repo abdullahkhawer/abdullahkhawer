@@ -10,7 +10,7 @@
 
 ### Hi there 👋🏻
 
-This is **Abdullah Khawer**. I'm a Senior DevOps Engineer with 8+ years of experience who has worked across Europe, the Middle East, and Asia in providing services around DevOps, Platform Engineering, and Site Reliability Engineering (SRE) based on AWS cloud. I have worked on projects in multiple domains including Fintech, Blockchain, Big Data, Digital Identity, Logistics and Supply Chain, and Low-Code. I have expertise in developing highly available, secure, auto-scalable, self-healing, and cost-effective solutions using a wide range of AWS services and DevOps tools and technologies.
+This is **Abdullah Khawer**, a Senior DevOps Engineer with 8+ years of experience who has worked in Europe, Middle East and Asia in providing services around DevOps, Platform Engineering, and Site Reliability Engineering (SRE) based on AWS cloud. I have worked on projects in multiple domains including Fintech, Blockchain, Big Data, Digital Identity, Logistics and Supply Chain, and Enterprise Low-Code. I have expertise in developing highly available, secure, self-healing, and cost-effective cloud solutions using a wide range of AWS services and DevOps tools.
 
 ⭐ Total Stars and Forks on GitHub: 85 Stars & 49 Forks
 
@@ -31,24 +31,23 @@ This is **Abdullah Khawer**. I'm a Senior DevOps Engineer with 8+ years of exper
 - 📌 [AK Encoder Decoder](https://github.com/abdullahkhawer/ak-encoder-decoder): A Python based encoding and decoding tool for texts and secrets with executables provided for Windows and Linux.
 
 🏆 Key Achievements:
-- 📌 AWS: AWS Certified Developer Associate and AWS Certified Cloud Practitioner.
-- 📌 Stack Overflow: 4 Gold, 37 Silver, and 81 Bronze Badges with 5200+ Reputation.
-- 📌 GitHub: 14 Repositories with 85 Stars & 49 Forks collectively with Arctic Code Vault Contributor badge for 3 repositories and Starstruck badge for 1 repository.
-- 📌 Received name in Principal's List 3 times on acquiring 3.5+ GPA during my Bachelors in Software Engineering at the University of the Punjab.
+- 📌 AWS: AWS Certified Developer Associate and AWS Certified Cloud Practitioner
+- 📌 GitHub: 14 Repositories with 85 Stars & 49 Forks collectively with Arctic Code Vault Contributor badge for 3 repositories and Starstruck badge for 1 repository. - github.com/abdullahkhawer
+- 📌 Stack Overflow: 5 Gold, 50 Silver, and 96 Bronze Badges with 5900+ Reputation - stackoverflow.com/users/11758843/abdullahkhawer
+- 📌 The Principal's List: 3 times got my name in it on acquiring 3.5+ GPA in Bachelors in Software Engineering
 
 💻 Skills:
-- 📌 Programming Languages: Python with Boto3 for AWS, Bash/Shell, JavaScript, YAML, NodeJS
+- 📌 Programming: Python with Boto3 for AWS, Bash/Shell, YAML
 - 📌 CI/CD: Jenkins, GitLab CI with GitLab Runners, GitHub Actions, BitBucket Pipelines, AWS (CodeDeploy, CodeBuild, CodePipeline)
 - 📌 Containerization: Docker, Kubernetes with Helm
 - 📌 Infrastructure as Code (IaC): Terraform, AWS CloudFormation, Ansible
-- 📌 Logging: Elasticsearch with Curator, Filebeat, Functionbeat, Logstash, Fluentd, Kibana, Papertrail, Loggly, Rollbar, Dynatrace, AWS CloudWatch
-- 📌 Monitoring and Alerting: Prometheus, Grafana, Alert Manager, Blackbox, AWS (CloudTrail, CloudWatch, SNS, EventBridge)
+- 📌 Logging: Elasticsearch, Filebeat, Functionbeat, Logstash, Fluentd, Kibana, Papertrail, Loggly, Rollbar, Dynatrace, AWS CloudWatch
+- 📌 Monitoring and Alerting: Prometheus, Grafana, Alert Manager, Blackbox, AWS CloudWatch
+- 📌 AWS Cloud: EC2, Lambda, EBS, SES, S3, VPC, SQS, API Gateway, ECR, ECS, EKS, Route 53, CloudFront, IAM, Cognito, Auto Scaling, EFS, SSO, Secrets Manager, KMS, ACM, SSM Parameter Store, SSM Session Manager, CodeCommit, EMR, Redshift, Data Pipeline, DMS, Kinesis, Athena, CloudTrail, SNS, EventBridge, etc
 - 📌 Databases: MongoDB, etcd, Redis, MySQL, PostgreSQL, Oracle, MariaDB, InfluxDB, AWS (RDS, Aurora, DocumentDB, DynamoDB, ElastiCache)
-- 📌 More DevOps Tools: Nginx Ingress Controller, Snyk, Nexus, Lacework, Cert Manager, Cluster Autoscaler, Renovate
+- 📌 More Tools: Nexus, Nginx Ingress Controller, Snyk, Lacework, Cert Manager, Cluster Autoscaler, Renovate, JIRA, Confluence, Slack, Microsoft Teams, Google Workspace, Microsoft Azure AD/Entra ID
 - 📌 More Skills: Agile, Scrum, Reverse Proxy, Caching, Load Balancing, REST API, Networking, Security, Auto Scaling, Backups, DNS, CDN, OIDC, Serverless, GitOps, Disaster Recovery
-- 📌 More Amazon Web Services: EC2, Lambda, EBS, SES, S3, VPC, SQS, API Gateway, ECR, ECS, EKS, Route 53, CloudFront, IAM, Cognito, Auto Scaling, EFS, SSO, Secrets Manager, KMS, ACM, SSM Parameter Store, SSM Session Manager, CodeCommit, EMR, Redshift, Data Pipeline, DMS, Kinesis, Athena
 - 📌 OS: Linux, macOS, Windows
-- 📌 More Tools: Sqoop, Hadoop, JIRA, Confluence, Slack, Zoom, Microsoft 365, Google Workspace, AzureAD
 
 <!--
 **abdullahkhawer/abdullahkhawer** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
