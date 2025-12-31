@@ -1,12 +1,12 @@
 # Abdullah Khawer
 
 <p align="left">
-LinkedIn Profile <a href="https://www.linkedin.com/in/abdullah-khawer/" target="blank"><img align="center" src="https://upload.wikimedia.org/wikipedia/commons/8/81/LinkedIn_icon.svg" alt="abdullahkhawer" height="30" width="30" /></a>
+LinkedIn - <a href="https://www.linkedin.com/in/abdullah-khawer/" target="blank"><img align="center" src="https://upload.wikimedia.org/wikipedia/commons/8/81/LinkedIn_icon.svg" alt="abdullahkhawer" height="30" width="30" /></a>
 
-Stack Overflow Profile <a href="https://stackoverflow.com/users/11758843/abdullah-khawer"><img src="https://stackoverflow.com/users/flair/11758843.png" width="208" height="58" alt="profile for Abdullah Khawer at Stack Overflow, Q&amp;A for professional and enthusiast programmers" title="profile for Abdullah Khawer at Stack Overflow, Q&amp;A for professional and enthusiast programmers"></a>
+Stack Overflow - <a href="https://stackoverflow.com/users/11758843/abdullah-khawer"><img src="https://stackoverflow.com/users/flair/11758843.png" width="208" height="58" alt="profile for Abdullah Khawer at Stack Overflow, Q&amp;A for professional and enthusiast programmers" title="profile for Abdullah Khawer at Stack Overflow, Q&amp;A for professional and enthusiast programmers"></a>
 </p>
 
-![Profile Views](https://komarev.com/ghpvc/?username=abdullahkhawer&color=blue&style=flat)
+ GitHub - ![Profile Views](https://komarev.com/ghpvc/?username=abdullahkhawer&color=blue&style=flat)
 
 ### Hi there 👋🏻
 
