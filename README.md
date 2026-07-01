@@ -12,8 +12,9 @@ This is **Abdullah Khawer**, a Senior DevOps Engineer with 8+ years of experienc
 
 ⭐ Total Stars and Forks on GitHub: 87 Stars & 50 Forks
 
-📁 GitHub Repositories: `14`
+📁 GitHub Repositories: `15`
 - 📌 [DevOps Skills](https://github.com/abdullahkhawer/devops-skills): A curated collection of DevOps Skills that enhance your development using AI to work smarter. Skills are reusable, step-by-step instruction files (SKILL.md) that can be used across almost every major AI agent product including Claude Code, GitHub Copilot, OpenCode, Mistral AI, Cursor, and more.
+- 📌 [Claude Code Bedrock Usage](https://github.com/abdullahkhawer/claude-code-bedrock-usage): A CLI tool to monitor your Anthropic Claude Code on AWS Bedrock usage like tokens consumed, spend per model, and budget status for the current or any past month within seconds in just one single command.
 - 📌 [AI Local Chat Bot](https://github.com/abdullahkhawer/ai-local-chat-bot): AI Local Chat Bot is an AI-powered chat assistant like ChatGPT running locally, safely and privately using n8n for workflow orchestration, Qdrant for vector storage, and Ollama for running local LLMs. It also includes helper scripts for downloading and processing Confluence pages as PDFs.
 - 📌 [Kubernetes Best Practices for Pods Resizing](https://github.com/abdullahkhawer/kubernetes-best-practices-for-pods-resizing): A list of best practices for setting Kubernetes resources to right size pods and nodes.
 - 📌 [AWS Alerts](https://github.com/abdullahkhawer/aws-alerts): AWS Alerts is a solution for AWS cloud to monitor resources for various AWS services and alert for failures, errors, warnings and terminations on Slack.
