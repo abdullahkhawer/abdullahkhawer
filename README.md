@@ -1,7 +1,7 @@
 <h1 align="center">Abdullah Khawer</h1>
 
 <p align="center">
-  <b>Senior DevOps Engineer &nbsp;·&nbsp; Consultant &nbsp;·&nbsp; Platform Engineer &nbsp;·&nbsp; SRE &nbsp;·&nbsp; AWS Expert</b><br/>
+  <b>Senior DevOps Engineer &nbsp;·&nbsp; Consultant &nbsp;·&nbsp; Platform Engineer &nbsp;·&nbsp; SRE &nbsp;·&nbsp; AWS Expert &nbsp;·&nbsp; Cloud Infrastructure Engineer</b><br/>
   9+ years building highly available, secure, and cost-effective cloud infrastructure
 </p>
 
