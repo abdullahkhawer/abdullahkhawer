@@ -17,7 +17,7 @@
 
 ---
 
-## About Me
+## 👋 About Me
 
 I'm a **Senior DevOps Engineer** who has delivered cloud and platform engineering solutions across **Europe, the Middle East, and Asia** in domains including Fintech, Blockchain, Big Data, Digital Identity, Logistics, and Enterprise Low-Code.
 
