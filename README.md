@@ -25,7 +25,7 @@ I design and operate infrastructure that is **self-healing, highly available, se
 
 ---
 
-## Highlights
+## 🏆 Key Achievements
 
 <table>
   <tr>
@@ -39,7 +39,7 @@ I design and operate infrastructure that is **self-healing, highly available, se
 
 ---
 
-## Open Source Repositories
+## 🌐 Open Source Repositories
 
 | Project | Description |
 |---|---|
@@ -62,7 +62,7 @@ I design and operate infrastructure that is **self-healing, highly available, se
 
 ---
 
-## Tech Stack
+## 🛠️ Tech Stack
 
 **Languages**
 
